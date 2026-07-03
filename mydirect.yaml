@@ -25,3 +25,13 @@ payload:
   - '+.hsbc.com.cn'
   - '+.hsbc.com.hk'
   - '+.hsbc.com.sg'
+
+  #Ping An Digital Bank
+  - '+.pingandb.com'
+  - '+.paob.com.hk'
+  - '+.itigertech.com'
+  - '+.skytigris.cn'
+
+  #rendimento
+  - '+.rendimento.com.br'
+  - '+.cambiorendimento.com.br'
