@@ -11,6 +11,7 @@ gtimg.cn
 servicewechat.com
 tenpay.com
 wechatpay.com.hk
+moneydata.hk
 
 #bank
 icbc.com.cn
