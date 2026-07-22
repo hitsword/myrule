@@ -13,3 +13,7 @@ payload:
   - '+.tenpay.com'
   - '+.wechatpay.com.hk'
   - '+.moneydata.hk'
+
+  # bank
+  - '+.icbc.com.cn'
+  - '+.hsbc.com.cn'

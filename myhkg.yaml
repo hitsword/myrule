@@ -1,6 +1,5 @@
 payload:
   # bank
-  - '+.icbc.com.cn'
   - '+.bochk.com'
   - '+.cncbinternational.com'
   - '+.inmotion.com'
@@ -22,7 +21,6 @@ payload:
   - '+.fundsupermart.com'
 
   # hsbc
-  - '+.hsbc.com.cn'
   - '+.hsbc.com.hk'
   - '+.hsbc.com.sg'
 
