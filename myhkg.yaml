@@ -33,3 +33,6 @@ payload:
   #rendimento
   - '+.rendimento.com.br'
   - '+.cambiorendimento.com.br'
+
+ #w3
+  - '+.oklink.com'
