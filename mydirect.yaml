@@ -17,3 +17,21 @@ payload:
   # bank
   - '+.icbc.com.cn'
   - '+.hsbc.com.cn'
+
+# Apple Passkey 认证与信令中继
+  - '+.identity.apple.com'
+  - '+.passkeys.apple.com'
+  - '+.apple-relay.apple.com'
+  - '+.apple-relay.cloudflare.com'
+
+  # iCloud 钥匙串与账户协同
+  - '+.keychainservices.apple.com'
+  - '+.setup.icloud.com'
+  - '+.gateway.icloud.com'
+
+  # Apple 推送通知长连接 (APNs)
+  - '+.push.apple.com'
+
+  # Chrome / Edge 跨设备 FIDO caBLE 中继信令
+  - '+.cable.auth.com'
+  - '+.cable.ua5v.com'
