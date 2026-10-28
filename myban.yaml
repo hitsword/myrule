@@ -135,3 +135,55 @@ payload:
   - '+.guid-xldw-ssl.n0808.com'
   # unknown
   - '+.data.sec.miui.com'
+
+  # ==========================================
+  # 免费小说 (YYReader / 阅友 / 七猫 / 万读) 专属广告与打点
+  # 注意：严格保留小说主站、正文 api-bc.wtzw.com 与封面 CDN，仅屏蔽广告与行为打点
+  # ==========================================
+  # 七猫 / 趣猫 / 阅友聚合广告网关
+  - '+.qm989.com'
+  - '+.52qumao.com'
+  # 万读小说内置广告插屏物料与监控打点（保留正文 api-bc 与主站 xiaoshuo）
+  - '+.cdn-new-ad.wtzw.com'
+  - '+.dig-cfg.wtzw.com'
+  - '+.drs-ipv6.wtzw.com'
+  - '+.drs.wtzw.com'
+  - '+.api-ks.wtzw.com'
+
+  # ==========================================
+  # 移动聚合广告联盟 (穿山甲 / 优量汇 / 快手 / 百度 / 神马汇川 / Tanx / UBIX)
+  # ==========================================
+  # 字节跳动穿山甲 (Pangolin CSJ)
+  - '+.pangolin-sdk-toutiao.com'
+  - '+.pangolin-sdk-toutiao1.com'
+  - '+.pangolin-sdk-toutiao-b.com'
+  - '+.pglstatp-toutiao.com'
+  # 腾讯优量汇广告 (GDT 广点通)
+  - '+.gdt.qq.com'
+  - '+.ugdtimg.com'
+  - '+.gdtimg.com'
+  # 百度移动联盟 (MobAds)
+  - '+.mobads.baidu.com'
+  - '+.mobads-logs.baidu.com'
+  - '+.wn.pos.baidu.com'
+  - '+.als.baidu.com'
+  - '+.nadvideo2.baidu.com'
+  - '+.feed-image.baidu.com'
+  # 快手移动广告联盟 (KSAD)
+  - '+.open.e.kuaishou.com'
+  - '+.kwimgs.com'
+  - '+.yximgs.com'
+  # 阿里神马 / 汇川 / UC 移动广告
+  - '+.partner.sm.cn'
+  - '+.hc-ssp.sm.cn'
+  - '+.huichuan-mc.sm.cn'
+  - '+.partner.uc.cn'
+  - '+.pixiu-sdk.uc.cn'
+  # 阿里 Tanx 广告交易平台
+  - '+.tanx.com'
+  # 第三方聚合广告 SDK (UBIX / 芸熙 / 1RTB / 易点天下 / 沛珀)
+  - '+.ubixioe.com'
+  - '+.yunxish.com'
+  - '+.1rtb.net'
+  - '+.bidex.cn'
+  - '+.peplle.cn'
